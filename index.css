@@ -1,0 +1,26 @@
+.button{
+    width: 100px;
+    height: 30px;
+    margin: 10px auto;
+    font-size: 15px;
+    color: #666;    
+}
+
+#container{
+    width:900px;
+    height:900px;
+    margin: auto;
+    float: clear;
+}
+
+.grid{
+    width:50px;
+    height:50px;
+    outline: 1px #666 solid;
+    background-color:#8d828c;
+    float:left;
+}
+
+.change-color{
+    background-color: #f6a8ba;
+}
